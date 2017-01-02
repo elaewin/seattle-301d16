@@ -33,6 +33,7 @@
 
 ## Helpful Resources
  - [IcoMoon: Free Icon Fonts](https://icomoon.io/app/#/select)
+ - [FlatIcon: another icon source](http://www.flaticon.com/)
  - [Shay Howe's Intro to RWD](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
  - [Dale Sande's Intro to RWD](http://www.anotheruiguy.com/ux-design-dev/_book/rwd/README.html)
  - [Example extra-fancy responsive hamburger](http://www.sitepoint.com/pure-css-off-screen-navigation-menu/)
